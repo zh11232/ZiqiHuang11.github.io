@@ -9,10 +9,9 @@ I am a PhD student in the Department of Electrical and Computer Engineering at M
 
 <ol reversed>
   <li>
-    <strong>Generalized Nash Equilibria for GMFG-Systems with Control Mean Fields</strong> 
+    <strong>Generalized Nash Equilibria for GMFG-Systems with Control Mean Fields</strong> <a href="https://www.gerad.ca/en/papers/G-2026-68">[GERAD]</a>
     <br> Z. Huang and P. E. Caines
     <br> October 2026 (Submitted)
-    <br> <a href="https://www.gerad.ca/en/papers/G-2026-68">Cahiers du GERAD G-2026-68</a>, October 2026 (with supplementary material)
   </li>
   <li>
     <strong>Graphon Mean Field Games with Control Constraints Dependent upon State and Control Mean Fields</strong> <a href="files/CDC26_1402_FI_20261006.pdf">[PDF]</a>
