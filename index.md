@@ -12,6 +12,7 @@ I am a PhD student in the Department of Electrical and Computer Engineering at M
     <strong>Generalized Nash Equilibria for GMFG-Systems with Control Mean Fields</strong> 
     <br> Z. Huang and P. E. Caines
     <br> October 2026 (Submitted)
+    <br> <a href="https://www.gerad.ca/en/papers/G-2026-68">Cahiers du GERAD G-2026-68</a>, October 2026 (with supplementary material)
   </li>
   <li>
     <strong>Graphon Mean Field Games with Control Constraints Dependent upon State and Control Mean Fields</strong> <a href="files/CDC26_1402_FI_20261006.pdf">[PDF]</a>
@@ -24,10 +25,6 @@ I am a PhD student in the Department of Electrical and Computer Engineering at M
     <br> 23rd IFAC World Congress, Busan, Republic of Korea, August 23-28, 2026
   </li>
 </ol>
-
-## Research Reports
-
-* [GERAD research report G-2026-68](https://www.gerad.ca/en/papers/G-2026-68) (including supplementary material)
 
 ## Talks
 
