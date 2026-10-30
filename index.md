@@ -25,6 +25,10 @@ I am a PhD student in the Department of Electrical and Computer Engineering at M
   </li>
 </ol>
 
+## Research Reports
+
+* [GERAD research report G-2026-68](https://www.gerad.ca/en/papers/G-2026-68) (including supplementary material)
+
 ## Talks
 
 * Conformism–Individualism Trade-offs in LQG Graphon MFG with Control Mean Field Costs
